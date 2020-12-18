@@ -34,6 +34,7 @@ Projeto referente à UNIDADE III da disciplina Programação Avançada (DCA-1202
   * CutEllipsoid: elimina uma elipsóide com os raios setados (Rx, Ry, Rz), na posição que clicamos no espaço para desenho
   * PutSphere: plota uma esfera com o raio setado, na posição que clicamos no espaço para desenho
   * CutSphere: elimina uma esfera com o raio setado, na posição que clicamos no espaço para desenho
+  * OFF: salva o desenho em um arquivo de imagens 3D, com extensão .off
   
   O desenho é salvo no arquivo escultura.off que está na pasta do projeto. Para ler esse arquivo precisamos de um software de visualização de imagens em 3D, como
   Geomview ou Meshlab, que mostram as escultura que foi desenhada
