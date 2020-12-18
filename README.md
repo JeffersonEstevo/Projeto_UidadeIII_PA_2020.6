@@ -1,7 +1,7 @@
 # Projeto_UnidadeIII_PA_2020.6
 Escultor Digital 3D - Parte Final
 <hr>
-## Projeto-Programacao-Avancada-UnidadeII-2020.6
+<strong>Projeto-Programacao-Avancada-UnidadeII-2020.6</strong>
 Projeto referente à disciplina Programação Avançada (DCA-1202) 2020.6
 ### Integrantes:
 
