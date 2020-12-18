@@ -11,10 +11,8 @@ Projeto referente à UNIDADE III da disciplina Programação Avançada (DCA-1202
 <hr>
 
 <h4>Projeto Esculor Digital 3D</h4>
-  <p>Trata-se de um projeto para criação de uma escultura 3D, a partir da plotagem de Voxels (3D), que são estruturas semelhantes aos pixels (2D).
-    Onde o professor nos passou a Classe Sculptor e a definição de seus métodos: (Sculptor, ~Sculptor, setColor, putVoxel, cutVoxel, putBox, cutBox, putSphere, cutSphere,
-    putEllipsoid, cutEllipsoid e writeOFF ).</p>
-  
+  <p>Trata-se de um projeto para criação de uma escultura 3D, a partir da plotagem de Voxels (3D), que são estruturas semelhantes aos pixels (2D), utilizando interface gráfica.
+      
   <h3>Como utilizar a forma gráfica do projeto</h3>
   Basta executar o projeto no QtCreator, na tela principal do programa, temos que clicar inicialmente em Escultor (no menu superior).
   Então, devemos definir as dimensões em x, y e z da escultura na tela que será exibida.
@@ -37,5 +35,7 @@ Projeto referente à UNIDADE III da disciplina Programação Avançada (DCA-1202
   * PutSphere: plota uma esfera com o raio setado, na posição que clicamos no espaço para desenho
   * CutSphere: elimina uma esfera com o raio setado, na posição que clicamos no espaço para desenho
   
+  O desenho é salvo no arquivo escultura.off que está na pasta do projeto. Para ler esse arquivo precisamos de um software de visualização de imagens em 3D, como
+  Geomview ou Meshlab, que mostram as escultura que foi desenhada
   
   <hr>
