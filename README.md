@@ -18,7 +18,8 @@ Projeto referente à UNIDADE III da disciplina Programação Avançada (DCA-1202
   <h3>Como utilizar a forma gráfica do projeto</h3>
   Basta executar o projeto no QtCreator, na tela principal do programa, temos que clicar inicialmente em Escultor (no menu superior).
   Então, devemos definir as dimensões em x, y e z da escultura na tela que será exibida.
-  Na interface podemos utilizar as seguintes opções:<br>
+  Na interface podemos utilizar as seguintes opções:
+  
   * Plano z de da escultura para desenho  
   * Cor (R, G, B), tons de vermelho, verde e azul
   * Paralelepípedo (Caixa) passando as dimensões em x, y e z
