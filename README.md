@@ -1,4 +1,4 @@
-# Projeto_UidadeIII_PA_2020.6
+# Projeto_UnidadeIII_PA_2020.6
 Escultor Digital 3D - Parte Final
 <hr>
 ## Projeto-Programacao-Avancada-UnidadeII-2020.6
@@ -19,7 +19,7 @@ Projeto referente à disciplina Programação Avançada (DCA-1202) 2020.6
   Basta executar o projeto no QtCreator, na tela principal do programa, temos que clicar inicialmente em Escultor (no menu superior).
   Então, devemos definir as dimensões em x, y e z da escultura na tela que será exibida.
   Na interface podemos utilizar as seguintes opções:
-  * Plano z de da escultura para desenho
+  * Plano z de da escultura para desenho  
   * Cor (R, G, B), tons de vermelho, verde e azul
   * Paralelepípedo (Caixa) passando as dimensões em x, y e z
   * Elipsóide, selecionando seus raios nos eixos x, y e z
