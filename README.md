@@ -1,8 +1,8 @@
 # Projeto_UnidadeIII_PA_2020.6
 Escultor Digital 3D - Parte Final
 <hr>
-Projeto-Programacao-Avancada-UnidadeII-2020.6<br>
-Projeto referente à disciplina Programação Avançada (DCA-1202) 2020.6
+Projeto referente à UNIDADE III da disciplina Programação Avançada (DCA-1202) 2020.6
+
 ### Integrantes:
 
 **_Jefferson Estevo Feitosa_**
